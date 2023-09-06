@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="MAX"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-09-04 07:37:36 p.m."/>
+        <attribute name="created" value="TUFYO0RFU0tUT1AtQlNCTExNTzsyMDIzLTA5LTA0OzA3OjI3OjMwIHAubS47Mjc3NQ=="/>
+        <attribute name="edited" value="TUFYO0RFU0tUT1AtQlNCTExNTzsyMDIzLTA5LTA0OzA3OjM3OjM2IHAubS47MTsyODkw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="CALIF" type="Integer" array="False" size=""/>
+            <output expression="&quot; QUE TRANZA BRO METE UNA CALIFICACION NO MANO &quot;" newline="True"/>
+            <input variable="CALIF"/>
+            <output expression="&quot;TU CALICACION ES&quot;" newline="True"/>
+            <output expression="CALIF" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
